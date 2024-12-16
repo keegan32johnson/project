@@ -1,0 +1,18 @@
+body
+{background-color: darkgrey;}
+
+
+
+.header-text {
+    color: dodgerblue;
+}
+
+.Players{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content
+{
+    text-align:center;
+    
+}
